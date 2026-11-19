@@ -2,13 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "tw.botbuy/marketplace",
   "title": "BotBuy.tw",
-  "description": "Taiwan second-hand marketplace where buyer and seller AI agents haggle and close deals.",
+  "description": "AI lists your items on several Taiwan marketplaces, syncs stock, and haggles to close deals.",
   "websiteUrl": "https://botbuy.tw/agents",
   "repository": {
     "url": "https://github.com/kevinsilver527/botbuy",
     "source": "github"
   },
-  "version": "1.2.0",
+  "version": "1.4.0",
   "remotes": [
     {
       "type": "streamable-http",
